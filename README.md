@@ -1,2 +1,2 @@
 # Student-manegment
-This is IOT Based Project
+This is java Based Project
